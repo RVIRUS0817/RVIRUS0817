@@ -13,43 +13,4 @@ Lancers SRE
 
 ## Skill
 
- - Linux/Docker
-   - CentOS
-   - Ubuntu
-   - Debian
-   - Alpine Linux
-- Cloud
-  - AWS
-    - ECS/Fagate
- - GCP
-- Web Server
-  - Apache
-  - Nginx
-  - H2O
-- language
-  - Shell Script
-  - PHP
-  - CakePHP
-  - Go(a little)
-  - Python(forgot)
-- Monitoring
-  - Mackerel
-  - DataDog
-  - Zabbix
-  - NewRelic
-- DB
-  - MySQL
-- Provisioning tool
-  - Ansible
-  - Chef
-  - Terraform
-- CI/CD
-  - CircleCI
-- BI
-  - Digdag
-  - embulk
-  - Fluentd
-  - BigQuery
-  - Athena
-- OSS
-  - Vuls
+![スクリーンショット 2020-07-29 16 04 05](https://user-images.githubusercontent.com/5633085/88767871-306da800-d1b5-11ea-8d67-99428a35626d.jpg)
