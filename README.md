@@ -6,20 +6,28 @@ I'm adachin yeah!!!🤟
 
 Lancers SRE
 
+## Blog
+- https://blog.adachin.me
+- https://wiki.adachin.me (k8s)
+- https://adachin.me
+
 ## Skill
 
 - AWS
   - ECS/Fagate
-- PHP
+- language
+  - Shell Script
+  - PHP
+  - Go(a little)
+  - Python(forgot)
 - Provisioning tool
   - Ansible
   - Terraform
-- CI
+- CI/CD
   - CircleCI
+- BI
+  - Digdag
+  - embulk
+  - BigQuery
 - OSS
   - Vuls
-
-## Blog
-- https://blog.adachin.me
-- https://wiki.adachin.me
-- https://adachin.me
