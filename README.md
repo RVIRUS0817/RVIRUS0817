@@ -13,21 +13,43 @@ Lancers SRE
 
 ## Skill
 
-- AWS
+ - Linux
+   - CentOS
+   - Ubuntu
+   - Debian
+   - Alpine Linux
+ - AWS
   - ECS/Fagate
+ - GCP
+ - Docker
+- Web Server
+  - Apache
+  - Nginx
+  - H2O
 - language
   - Shell Script
   - PHP
+  - CakePHP
   - Go(a little)
   - Python(forgot)
+- Monitoring
+  - Mackerel
+  - DataDog
+  - Zabbix
+  - NewRelic
+- DB
+  - MySQL
 - Provisioning tool
   - Ansible
+  - Chef
   - Terraform
 - CI/CD
   - CircleCI
 - BI
   - Digdag
   - embulk
+  - Fluentd
   - BigQuery
+  - Athena
 - OSS
   - Vuls
