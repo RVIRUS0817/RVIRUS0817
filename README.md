@@ -13,15 +13,15 @@ Lancers SRE
 
 ## Skill
 
- - Linux
+ - Linux/Docker
    - CentOS
    - Ubuntu
    - Debian
    - Alpine Linux
- - AWS
-  - ECS/Fagate
+- Cloud
+  - AWS
+    - ECS/Fagate
  - GCP
- - Docker
 - Web Server
   - Apache
   - Nginx
