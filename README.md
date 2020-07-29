@@ -1,10 +1,10 @@
 ## Hi there🤷‍♂️
 
-I'm adachin.
+I'm adachin yeah!!!🤟
 
 ## Job
 
-SRE
+Lancers SRE
 
 ## Skill
 
