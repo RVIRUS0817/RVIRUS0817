@@ -1,4 +1,4 @@
-## Hi there🤷‍♂️
+## Hi there😇
 
 I'm adachin yeah!!!🤟
 
@@ -6,7 +6,7 @@ I'm adachin yeah!!!🤟
 
 Lancers SRE
 
-## Blog/Portfolio
+## Blog/Portfolio✌️
 - https://blog.adachin.me
 - https://wiki.adachin.me (k8s)
 - https://adachin.me
