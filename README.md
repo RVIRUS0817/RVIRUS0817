@@ -13,9 +13,10 @@ Lancers SRE
 
 ## Skill📖
 
-- AWS
-- Docker(ECS/Fargate k8s)
-- PHP/CakePHP ShellScript Go,Python(forgot) 
+- AWS,GCP
+- Docker(ECS/Fargate,k8s)
+- PHP/CakePHP,ShellScript,Go,Python(forgot) 
 - CircleCI
-- Ansible Terraform
-- Makcerel Datdog Zabbix
+- Ansible,Terraform
+- Makcerel,Datdog,Zabbix
+- DigDag,embulk,Fluentd,BigQuery
