@@ -2,15 +2,20 @@
 
 I'm adachin yeah!!!🤟
 
-## Job
+## Job🏃
 
 Lancers SRE
 
-## Blog
+## Blog/Portfolio
 - https://blog.adachin.me
 - https://wiki.adachin.me (k8s)
 - https://adachin.me
 
-## Skill
+## Skill📖
 
-<img src="https://user-images.githubusercontent.com/5633085/88767871-306da800-d1b5-11ea-8d67-99428a35626d.jpg" width=50%>
+- AWS
+- Docker(ECS/Fargate k8s)
+- PHP/CakePHP ShellScript Go,Python(forgot) 
+- CircleCI
+- Ansible Terraform
+- Makcerel Datdog Zabbix
