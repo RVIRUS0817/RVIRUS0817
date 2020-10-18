@@ -16,7 +16,7 @@ Lancers SRE
 - AWS,GCP
 - Docker(ECS/Fargate,k8s)
 - Apache,Nginx,H2O
-- PHP/CakePHP,ShellScript,Go,Python(forgot) 
+- HTML,CSS,Bootstrap,PHP/CakePHP,ShellScript,Go,Python
 - CircleCI
 - Ansible,Terraform
 - Makcerel,Datdog,Zabbix
