@@ -1,6 +1,4 @@
-## Hi there😇
-
-I'm adachin yeah!!!🤟
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=RVIRUS0817&count_private=true&theme=dracula)
 
 ## Job🏃
 
