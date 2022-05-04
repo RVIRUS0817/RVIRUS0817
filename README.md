@@ -11,13 +11,13 @@ Lancers SRE
 
 ## Skill📖
 
-- AWS,GCP
-- Docker(ECS/Fargate,k8s)
-- Apache,Nginx,H2O
-- HTML,CSS,Bootstrap
-- ShellScript,PHP/CakePHP,Go,Python
-- CircleCI,GitHub Actions
-- Ansible,Terraform
-- Makcerel,Datdog,Zabbix
-- Data Lake/DigDag,Embulk,Fluentd,BigQuery
-- OSS:Vuls
+- Infra Cloud/AWS(ECS/Fargate),KVM,GCP,VPS,k8s
+- Programming/ShellScript,PHP/CakePHP,Go,Python
+- Frontend/HTML,CSS,Bootstrap
+- CI,CD/CircleCI,GitHub Actions,Jenkins
+- Web Server/Apache,Nginx,H2O
+- Infra provisioning tool/Ansible,Terraform,Chef,itamae
+- Monitoring/Nagios,Zabbix,NewRelic,Mackerel,DataDog
+- Security/OSS:Vuls,yamori
+- Database/MySQL,PostgreSQL
+- Data Lake/DigDag,Embulk,Fluentd,BigQuery,Kinesis
