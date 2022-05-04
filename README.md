@@ -19,5 +19,5 @@ Lancers SRE
 - CircleCI,GitHub Actions
 - Ansible,Terraform
 - Makcerel,Datdog,Zabbix
-- DigDag,embulk,Fluentd,BigQuery
+- Data Lake/DigDag,Embulk,Fluentd,BigQuery
 - OSS:Vuls
