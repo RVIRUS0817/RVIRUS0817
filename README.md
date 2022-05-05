@@ -12,19 +12,19 @@ Lancers SRE
 ## Skill📖
 
 - Infra Cloud
-  - AWS(ECS/Fargate),KVM,GCP,VPS,k8s
+  - AWS,GCP,VPS,KMV,Docker(ECS/Fargate,kubernetes),Vagrant
 - Programming 
-  - ShellScript,PHP/CakePHP,Go,Python
+  - ShellScript,PHP(CakePHP),Go,Python
 - Frontend
-  - HTML,CSS,Bootstrap
+  - HTML,CSS(Bootstrap)
 - CI/CD
   - CircleCI,GitHub Actions,Jenkins
 - Web Server
-  - Apache,Nginx,H2O
+  - Nginx,H2O,Apache
 - Infra provisioning tool
   - Ansible,Terraform,Chef,itamae
 - Monitoring
-  - Nagios,Zabbix,NewRelic,Mackerel,DataDog
+  - Datadog,Mackerel,Nagios,Zabbix,NewRelic
 - Security
   - OSS:Vuls,yamori
 - Database
