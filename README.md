@@ -30,4 +30,4 @@ Lancers SRE
 - Database
   - MySQL,PostgreSQL
 - Data Lake
-  - DigDag,Embulk,Fluentd,BigQuery,Kinesis
+  - Digdag,Embulk,Fluentd,BigQuery,Kinesis
