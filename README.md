@@ -21,7 +21,7 @@ Lancers SRE
   - CircleCI,GitHub Actions,Jenkins
 - Web Server
   - Nginx,H2O,Apache
-- Infra provisioning tool
+- IaC
   - Ansible,Terraform,Chef,itamae
 - Monitoring
   - Datadog,Mackerel,Nagios,Zabbix,NewRelic
