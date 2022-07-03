@@ -12,7 +12,8 @@ Lancers SRE
 ## Skill📖
 
 - Infra Cloud
-  - AWS,GCP,DigitalOcean,VPS,KMV,Docker(ECS/Fargate,kubernetes),Vagrant
+  - AWS,GCP,DigitalOcean,VPS,KVM,ECS/Fargate,Kubernetes
+  - Docker,Vagrant
 - Programming 
   - ShellScript,PHP(CakePHP),Go,Python
 - Frontend
