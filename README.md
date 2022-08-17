@@ -27,7 +27,7 @@ Lancers SRE
 - Monitoring
   - Datadog,Mackerel,Nagios,Zabbix,NewRelic
 - Security
-  - OSS:Vuls,yamori
+  - OSS:Vuls,Trivy,yamori
 - Database
   - MySQL,PostgreSQL
 - Data Lake
