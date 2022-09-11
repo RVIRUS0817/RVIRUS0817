@@ -2,7 +2,7 @@
 
 ## Job🏃
 
-Lancers SRE
+SRE
 
 ## Blog/Portfolio✌️
 - https://blog.adachin.me
