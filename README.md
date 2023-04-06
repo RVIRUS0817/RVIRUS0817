@@ -31,4 +31,4 @@ SRE
 - Database
   - MySQL,PostgreSQL
 - Data Lake
-  - Digdag,Embulk,Fluentd,BigQuery,Kinesis
+  - Digdag,Embulk,Fluentd,Redash,BigQuery,Athena,Kinesis
