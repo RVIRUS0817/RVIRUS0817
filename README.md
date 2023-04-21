@@ -12,7 +12,7 @@ SRE
 ## Skill📖
 
 - Infra Cloud
-  - AWS,GCP,DigitalOcean,VPS,KVM,ECS/Fargate,Kubernetes
+  - AWS,GCP,Azure,DigitalOcean,VPS,KVM,ECS/Fargate,Kubernetes
   - Docker,Vagrant
 - Programming 
   - ShellScript,PHP(CakePHP),Go,Python
