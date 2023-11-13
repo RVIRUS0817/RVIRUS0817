@@ -23,7 +23,7 @@ SRE
 - IaC
   - Ansible,Terraform,Chef,itamae
 - Monitoring
-  - Datadog,NewRelic,Mackerel,Nagios,Zabbix
+  - Datadog,NewRelic,Mackerel,Grafana(Mimir, Loki),Prometheus,Nagios,Zabbix
 - Security
   - OSS:Vuls,Trivy,yamori
 - Database
