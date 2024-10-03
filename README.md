@@ -3,9 +3,9 @@
 SRE
 
 ## Blog/Portfolio✌️
+- https://adachin.me
 - https://blog.adachin.me
 - https://wiki.adachin.me (k8s)
-- https://adachin.me
 
 ## Community🙌
 - https://techbull.cloud
