@@ -16,11 +16,11 @@ SRE
   - AWS,GCP,Azure,DigitalOcean,VPS,KVM,ECS/Fargate,Kubernetes
   - Docker,Vagrant
 - Programming 
-  - ShellScript,PHP(CakePHP),Go,Python
+  - ShellScript,PHP(CakePHP),Ruby(Rails)Go,Python
 - Frontend
-  - HTML,CSS(Bootstrap)
+  - HTML,CSS(Bootstrap),React
 - CI/CD
-  - CircleCI,GitHub Actions,Jenkins
+  - GitHub Actions,CircleCI,Jenkins
 - Web Server
   - Nginx,H2O,Apache
 - IaC
