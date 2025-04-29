@@ -16,7 +16,7 @@ SRE
   - AWS,GCP,Azure,DigitalOcean,VPS,KVM,ECS/Fargate,Kubernetes
   - Docker,Vagrant
 - Programming 
-  - ShellScript,PHP(CakePHP),Ruby(Rails)Go,Python
+  - ShellScript,Go,Python,PHP(CakePHP),Ruby(Rails)
 - Frontend
   - HTML,CSS(Bootstrap),React
 - CI/CD
@@ -28,7 +28,7 @@ SRE
 - Monitoring
   - Datadog,NewRelic,Mackerel,Sentry,Grafana(Mimir, Loki),Prometheus,Nagios,Zabbix
 - Security
-  - OSS:Vuls,Trivy,yamori
+  - Vuls,Trivy,yamori,ShishoCloud,Security Lake
 - Database
   - MySQL,PostgreSQL
 - Data Lake
