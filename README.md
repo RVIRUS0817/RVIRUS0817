@@ -46,4 +46,4 @@
 
 ## 👨‍💻 **Skill Map**
 
-(click)[https://adachin.notion.site/Skill-Map-1f3d6201ac4680d7bc78f6c603a265a2?pvs=4]
+[click 🫵](https://adachin.notion.site/Skill-Map-1f3d6201ac4680d7bc78f6c603a265a2?pvs=4)
