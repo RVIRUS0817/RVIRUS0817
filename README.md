@@ -1,7 +1,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RVIRUS0817&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RVIRUS0817&theme=transparent&border_radius=10&starting_year=2013" alt="readme streak stats" />
 </div>
 
 <div align="center">
