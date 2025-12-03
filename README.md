@@ -1,6 +1,12 @@
-<p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVIRUS0817&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-</p>
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RVIRUS0817&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
