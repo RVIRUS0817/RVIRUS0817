@@ -62,7 +62,7 @@
 - Monitoring
   - Datadog,NewRelic,Mackerel,Sentry,Grafana(Mimir, Loki),Prometheus,Nagios,Zabbix
 - Security
-  - Vuls,Trivy,yamori,ShishoCloud,Security Lake
+  - Vuls,Trivy,yamori,ShishoCloud/Takumi,Security Lake
 - Database
   - MySQL,PostgreSQL
 - Data Lake
