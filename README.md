@@ -25,7 +25,11 @@
 
 ### 👋 **Hi, I'm adachin!**
 🚀 **SRE Developer**   
-🔥 **Blog**   
+🌍 **Location:** Japan 🇯🇵  
+📹️ **YouTube**
+- https://www.youtube.com/@adachin0817
+
+📚️ **Blog**   
 - https://adachin.me
 - https://blog.adachin.me
 - https://wiki.adachin.me
@@ -33,7 +37,6 @@
 🙌 **Community**   
 - https://techbull.cloud
 
-🌍 **Location:** Japan 🇯🇵  
 
 </td>
 </tr>
