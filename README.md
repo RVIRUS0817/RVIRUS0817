@@ -26,7 +26,7 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm adachin!**
-🚀 **SRE Developer**   
+🚀 **SRE Engineer**   
 🌍 **Location:** Japan 🇯🇵  
 📹️ **YouTube**
 - https://www.youtube.com/@adachin0817
