@@ -13,6 +13,8 @@
 
 ## 🌟 **About Me**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=22F73F&width=435&lines=%40adachin0817;SRE+Engineer;TechBull+Founder)](https://git.io/typing-svg)
+
 <div align="center">
 
 <table>
